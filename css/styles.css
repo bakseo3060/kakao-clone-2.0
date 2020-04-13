@@ -8,6 +8,7 @@
 @import "find.css";
 @import "more.css";
 @import "settings.css";
+@import "chat.css";
 * {
   box-sizing: border-box;
   /* .nav .nav__list를 flex할 경우 more icon이 사라짐 이에 필요한 옵션  */
